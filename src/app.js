@@ -18,3 +18,4 @@ const dominioName =
   ".com";
 
 paragraph.textContent = dominioName;
+//FINALIZADO
